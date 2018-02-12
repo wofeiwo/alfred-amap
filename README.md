@@ -11,7 +11,7 @@
 - 输入"amap"+空格+搜索关键字即可。然后就等他出结果，回车或者cmd+数字就能打开默认浏览器进入地图页面进入地图页面查看搜索结果。
 - Tips: 可以直接输入"amap"+空格+"A到B"或"A去B"，回车后可以直接显示路线图
 
-安装：请安装alfred之后，买了alfred的powerpack并激活，下载workflow文件，双击安装即可。 
+安装：请安装alfred之后，买了alfred的powerpack并激活，[下载workflow文件](https://github.com/wofeiwo/alfred-amap/releases)，双击安装即可。 
 
 ChangeLog
 ==============
