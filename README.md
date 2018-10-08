@@ -16,4 +16,5 @@
 ChangeLog
 ==============
 
-- 1.0.0（2018-02-12）： 从[`alfred-baidu-map`](https://github.com/wofeiwo/alfred-baidu-map)的功能完全copy而来，换了一个数据源为高德。
+- 1.0.1 (2018-10-08): 修复了设置AK时错误写入{query}的bug #2。现在应该会真正写入您所输入的正确AKey。
+- 1.0.0 (2018-02-12): 从[`alfred-baidu-map`](https://github.com/wofeiwo/alfred-baidu-map)的功能完全copy而来，换了一个数据源为高德。
